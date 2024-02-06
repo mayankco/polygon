@@ -1,0 +1,78 @@
+"official_links": {
+        "website": "https://polygon.technology/",
+        "documentation": "https://docs.polygon.technology/",
+        "github": "https://github.com/0xPolygon/polygon"
+    },
+    "social_platforms": {
+        "discord": "https://discord.gg/Gv6RVFcv",
+        "twitter": "https://twitter.com/0xPolygon",
+        "reddit": "https://www.reddit.com/r/maticnetwork/",
+       
+    },
+    "data_aggregator": [
+        {
+            "name": "CoinMarketCap",
+            "url": "https://coinmarketcap.com/currencies/polygon/"
+        },
+        {
+            "name": "CoinGecko",
+            "url": "https://www.coingecko.com/en/coins/polygon"
+        },
+        {
+            "name": "DefiLlama",
+            "url": "https://defillama.com/chain/Polygon"
+        },
+        {
+            "name": "DappRadar",
+            "url": "https://dappradar.com/chain/polygon"
+        },
+    "explorers": [
+        {
+            "name": "Etherscan",
+            "url": "https://polygonscan.com/"
+        },
+        {
+            "name": "Blockchair",
+            "url": "https://blockchair.com/matic"
+        },
+        
+    "bridges": [
+        {
+            "name": "Layer Zero",
+            "url": "https://layerzero.network/"
+        },
+        {
+            "name": "Axelar",
+            "url": "https://axelar.network/"
+        },
+        {
+            "name": "Hop Protocol",
+            "url": "https://hop.exchange/"
+        },
+        {
+            "name": "Connext",
+            "url": "https://connext.network/"
+        },
+        {
+            "name": "Wormhole",
+            "url": "https://wormhole.com/"
+        },
+        {
+            "name": "Stargate",
+            "url": "https://stargate.finance/"
+        }
+    ],
+"other links": [
+        {
+            "name": "Polygon Bug Bounty Program",
+            "url": "https://polygon.technology/bug-bounty/"
+        },
+        {
+            "name": "Polygon Grants",
+            "url": "https://polygon.technology/grants/"
+        },
+        {
+            "name": "Polygon Faucets",
+            "url": "https://matic.supply/"
+        }
+]
